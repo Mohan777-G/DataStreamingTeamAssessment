@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "datastreamingteamassessment"
+version = "0.1.0"
+description = "datastreamingteamassessment"
+authors = ["datastreamingteamassessment"]
+
+[tool.poetry.dependencies]
+python = "==3.11.4"
+lxml = ">=4.9.2"
